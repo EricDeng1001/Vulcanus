@@ -1,0 +1,9 @@
+/*
+!*.cpp
+drive.cpp
+tmp.cpp
+!*.hpp
+!*.inl
+!makefile
+!.gitignore
+!.gitmodules
