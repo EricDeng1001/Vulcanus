@@ -1,6 +1,6 @@
 #ifndef _ANTINUX_HEPHAESTUS_SORT_H_
 #define _ANTINUX_HEPHAESTUS_SORT_H_
-
+#include "Apollo/loop.hpp"
 namespace Antinux{
 	namespace Hephaestus{
 		template <class T>
